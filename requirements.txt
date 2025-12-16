@@ -1,5 +1,5 @@
 streamlit
 pandas
 plotly
-supabase-py
+supabase
 numpy
